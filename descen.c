@@ -1,5 +1,5 @@
 #include <stdio.h>
-void_bubble(int arr[],int n)
+void bubble(int arr[],int n)
 {
     int temp=0;
     for(int i=0; i<n; i++)
